@@ -1,5 +1,7 @@
 # Sintaxis CSS
 
+![Logo CSS](http://www.growingwiththeweb.com/images/general/css3.png)
+
 
 ### Que es CSS?
 
@@ -54,5 +56,7 @@ Hace lo mismo que todas estas
 ### ¿Cuando usar "id" o cuando usar “class”?
 
 > Las "id" se utilizan para objetos unicos, se identifican con **"#"** a la hora de ponerle las propiedades que queremos en CSS
-> Las "class" se utilizan para conjuntos de objetos, se identifican con **"nombre de la clase"** a la hora de ponerle las propiedades que queremos en CSS
+
+
+> Las "class" se utilizan para conjuntos de objetos, se identifican con **".nombre de la clase"** a la hora de ponerle las propiedades que queremos en CSS
 
