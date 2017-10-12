@@ -57,6 +57,11 @@ Hace lo mismo que todas estas
 
 > padding-left: 5px;
 
+<<<<<<< HEAD
+=======
+CONTENIDO CAMBIADO EN RAMA 2
+
+>>>>>>> ramaFacu2
 ### ¿Cuando usar "id" o cuando usar “class”?
 
 > Las "id" se utilizan para objetos unicos, se identifican con **"#"** a la hora de ponerle las propiedades que queremos en CSS
