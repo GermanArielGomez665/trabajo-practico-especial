@@ -1,0 +1,13 @@
+Por ejemplo esta linea
+
+> padding: 10px 15px 15px 5px;
+
+Hace lo mismo que todas estas
+
+> padding-top: 10px;
+
+> padding-right: 15px;
+
+> padding-bottom: 15px;
+
+> padding-left: 5px;

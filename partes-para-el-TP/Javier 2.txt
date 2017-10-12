@@ -1,0 +1,1 @@
+> Las "class" se utilizan para conjuntos de objetos, se identifican con **".nombre de la clase"** a la hora de ponerle las propiedades que queremos en CSS
