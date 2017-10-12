@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Sintaxis CSS
+=======
+# Sintaxis CSS asdasdas
+>>>>>>> ramaFacu1
 
 ![Logo CSS](http://www.growingwiththeweb.com/images/general/css3.png)
 
