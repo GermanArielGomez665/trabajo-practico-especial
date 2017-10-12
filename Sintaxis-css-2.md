@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # Sintaxis CSS
+=======
+# Sintaxis CSS asdasdas
+>>>>>>> ramaFacu1
+
+![Logo CSS](http://www.growingwiththeweb.com/images/general/css3.png)
 
 
 ### Que es CSS?
@@ -33,7 +39,7 @@ Un poco de vocabulario
 
 
 
-### Formas de escribir CSS
+### Formas de escribir en CSS
 
 Algunas propiedades como: font, background, padding, border, y margin se llaman propiedades abreviadas — permiten establecer varios valores a la vez en una sola línea, ahorrando tiempo y haciendo el código más limpio.
 
@@ -50,3 +56,13 @@ Hace lo mismo que todas estas
 > padding-bottom: 15px;
 
 > padding-left: 5px;
+
+CONTENIDO CAMBIADO EN RAMA 2
+
+### ¿Cuando usar "id" o cuando usar “class”?
+
+> Las "id" se utilizan para objetos unicos, se identifican con **"#"** a la hora de ponerle las propiedades que queremos en CSS
+
+
+> Las "class" se utilizan para conjuntos de objetos, se identifican con **".nombre de la clase"** a la hora de ponerle las propiedades que queremos en CSS
+
